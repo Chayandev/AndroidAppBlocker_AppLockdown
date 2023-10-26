@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppLockdown</string>
+    <string name="app_lockdown">App Lockdown</string>
+    <string name="select_the">SELECT THE</string>
+    <string name="apps">Apps</string>
+    <string name="time">Time</string>
+    <string name="installed_app_icon">Installed app icon</string>
+    <string name="you_tube">You Tube</string>
+    <string name="checkIcon">Check Icon</string>
+    <string name="select_time">Select Time</string>
+</resources>
