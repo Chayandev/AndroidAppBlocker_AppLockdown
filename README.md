@@ -2,4 +2,4 @@
 
 This project is currently pending.
 
-any suggestions are most welcome , facing some issues with this project, so collaboration is most welcome.
+any suggestions are most welcome , i'm facing some issues  with this project in the implementation , so collaboration is most welcome.
